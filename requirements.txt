@@ -1,0 +1,6 @@
+pip install pytest-selenium
+pytest
+pytest-selenium
+selenium
+
+

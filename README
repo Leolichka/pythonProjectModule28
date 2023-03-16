@@ -1,0 +1,10 @@
+# How to run:
+#  1) Download geko driver for Chrome here:
+#     https://chromedriver.chromium.org/downloads
+#  2) Install all requirements:
+#     pip install pytest-selenium
+#     pytest
+#     pytest-selenium
+#     selenium
+#  3) Run tests:
+#     python -m pytest -v --driver Chrome --driver-path ~/chrome tests/test_rostelecom.py
