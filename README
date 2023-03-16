@@ -16,6 +16,15 @@
  - предугадывание ошибок. 
  Тестирование проводилось методом "черного ящика".
  
+Тест-кейсы и Баги:
+https://docs.google.com/spreadsheets/d/1hNqhjKNiXHy8gSTjuAk1bf1AdBkcvAmLOgV4FVKe2dI/edit?usp=sharing
+
+Исходное ТЗ:
+https://docs.google.com/document/d/1ntD3_1ehfliVjAdJdxuZx43VGVW7ZLFp/edit?usp=sharing&ouid=110483348718180079874&rtpof=true&sd=true
+
+Отредактированное ТЗ:
+https://docs.google.com/document/d/1djg9QZ0eYYs_I247dwQds8OjNeVvzIfh/edit?usp=sharing&ouid=110483348718180079874&rtpof=true&sd=true
+ 
 
 # How to run:
 #  1) Download geko driver for Chrome here:
